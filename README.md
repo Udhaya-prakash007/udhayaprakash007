@@ -5,8 +5,8 @@
 
 ## 👨‍💻 About Me
 - Passionate about web development and programming  
-- Interested in building clean, efficient, and user-friendly applications  
-- Comfortable working with both frontend and backend basics  
+- Focused on writing clean and efficient code  
+- Comfortable working with frontend technologies and programming fundamentals  
 
 ---
 
@@ -24,12 +24,12 @@
 
 ### 🧰 Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vsco de" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Profile Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Udhaya-prakash007&show_icons=true&theme=tokyonight" />
 </p>
@@ -45,10 +45,13 @@
   <a href="https://github.com/Udhaya-prakash007" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/udhayaprakash-s-b7ab9b3a5/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile!*
-
+⭐ *Thanks for visiting my GitHub profile!*
 # udhayaprakash007
